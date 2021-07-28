@@ -1,6 +1,8 @@
 body {
     background-image: url("images/confetti.gif");
     font-family: Helvetica;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 h1 {
@@ -45,4 +47,8 @@ ul {
     height: 75px;
     border: none;
     padding-bottom: 0px;
+}
+
+a {
+    color: purple;
 }
